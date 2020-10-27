@@ -1,1 +1,1 @@
-# reacr-webpack
+# react-webpack
